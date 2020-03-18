@@ -1,7 +1,7 @@
 {
   "name": "micro-cell-node-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Description is needed",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
