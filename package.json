@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/crufter/micro-cell-node-example/issues"
   },
-  "homepage": "https://github.com/crufter/micro-cell-node-example#readme"
+  "homepage": "https://github.com/crufter/micro-cell-node-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
